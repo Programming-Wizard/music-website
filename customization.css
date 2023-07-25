@@ -1,0 +1,32 @@
+header
+{
+    color: chartreuse;
+    font-size:3cm ;
+    font-family: algerian;
+}
+
+body
+{
+    border-color: yellow;
+    border-width: 20px;
+    border-style:groove;
+    border-spacing: 15px;
+    background-image: url(music.png);
+    
+}
+marquee
+{
+    color: rgb(255, 208, 0);
+    font-size: 1cm;
+    font-family:'Gill Sans';
+}
+p
+{
+    color: skyblue;
+    font-size:40px;
+    font-family:Blackadder ITC;
+}
+img
+{
+    margin: 4px 4px 4px 4px;
+}
